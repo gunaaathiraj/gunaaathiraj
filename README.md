@@ -1,14 +1,9 @@
-👋 Hi, I’m @gunaaathiraj
+## Its Me Guna Aathiraj
 
-👀 I’m interested in programming
+I'm a **Computer Science Student** <img src="https://img.icons8.com/offices/344/4a90e2/computer.png" alt="computer" width="15"/>
 
-🌱 I’m currently learning C++
+**Coding** is my hobby <img src="https://img.icons8.com/fluent-systems-filled/344/4a90e2/laptop-coding.png" alt="code" width="15"/>
 
-- 💞️ I’m looking to collaborate on ...
+Currently learning **Android Rom** development <img src="https://img.icons8.com/fluent/452/android-os.png" alt="android" width="15"/>
 
-- 📫 How to reach me ...
-
-<!---
-gunaaathiraj/gunaaathiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My fav operating system is **Linux** <img src="https://img.icons8.com/ios-glyphs/344/linux-client.png" alt="linux" width="15"/>
